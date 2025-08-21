@@ -108,9 +108,7 @@ Deploy as a web app (e.g., Flask/Streamlit) for real-time bill predictions.
 
 
 📂 Repository Structure
-bash
-Copy
-Edit
+```
 
 ELECTRICITY-BILL-PREDICTOR/
 │
@@ -118,7 +116,7 @@ ELECTRICITY-BILL-PREDICTOR/
 │── Electricity_Bill.csv           # Dataset
 │── requirements.txt               # Python dependencies
 │── README.md                      # Project documentation
-
+```
 
 
 👨‍💻 Author
