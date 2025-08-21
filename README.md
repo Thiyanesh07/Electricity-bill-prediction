@@ -69,7 +69,16 @@ Other features (Rate per Unit, Peak/Off-Peak usage, Region, Customer Type) play 
 
 🖼 Output Images
 📌 Linear Regression Plot:
+
+
+
+
+
+
+
 <img width="436" height="344" alt="{674FDE12-2CAF-4DB3-9DE5-3CDFC03ABFEE}" src="https://github.com/user-attachments/assets/b091757b-1e92-414b-af4f-c1367fa69dbf" />
+
+
 
 
 
